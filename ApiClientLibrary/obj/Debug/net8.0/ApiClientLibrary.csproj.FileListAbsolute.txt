@@ -1,0 +1,27 @@
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\ApiClientLibrary\bin\Debug\net8.0\appsettings.json
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\ApiClientLibrary\bin\Debug\net8.0\ApiClientLibrary.deps.json
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\ApiClientLibrary\bin\Debug\net8.0\ApiClientLibrary.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\ApiClientLibrary\bin\Debug\net8.0\ApiClientLibrary.pdb
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\ApiClientLibrary\obj\Debug\net8.0\ApiClientLibrary.csproj.AssemblyReference.cache
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\ApiClientLibrary\obj\Debug\net8.0\ApiClientLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\ApiClientLibrary\obj\Debug\net8.0\ApiClientLibrary.AssemblyInfoInputs.cache
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\ApiClientLibrary\obj\Debug\net8.0\ApiClientLibrary.AssemblyInfo.cs
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\ApiClientLibrary\obj\Debug\net8.0\ApiClientLibrary.csproj.CoreCompileInputs.cache
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\ApiClientLibrary\obj\Debug\net8.0\ApiClientLibrary.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\ApiClientLibrary\obj\Debug\net8.0\refint\ApiClientLibrary.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\ApiClientLibrary\obj\Debug\net8.0\ApiClientLibrary.pdb
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\ApiClientLibrary\obj\Debug\net8.0\ref\ApiClientLibrary.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\ApiClientLibrary\bin\Debug\net8.0\appsettings.json
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\ApiClientLibrary\bin\Debug\net8.0\ApiClientLibrary.deps.json
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\ApiClientLibrary\bin\Debug\net8.0\ApiClientLibrary.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\ApiClientLibrary\bin\Debug\net8.0\ApiClientLibrary.pdb
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\ApiClientLibrary\obj\Debug\net8.0\ApiClientLibrary.csproj.AssemblyReference.cache
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\ApiClientLibrary\obj\Debug\net8.0\ApiClientLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\ApiClientLibrary\obj\Debug\net8.0\ApiClientLibrary.AssemblyInfoInputs.cache
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\ApiClientLibrary\obj\Debug\net8.0\ApiClientLibrary.AssemblyInfo.cs
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\ApiClientLibrary\obj\Debug\net8.0\ApiClientLibrary.csproj.CoreCompileInputs.cache
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\ApiClientLibrary\obj\Debug\net8.0\ApiClientLibrary.sourcelink.json
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\ApiClientLibrary\obj\Debug\net8.0\ApiClientLibrary.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\ApiClientLibrary\obj\Debug\net8.0\refint\ApiClientLibrary.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\ApiClientLibrary\obj\Debug\net8.0\ApiClientLibrary.pdb
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\ApiClientLibrary\obj\Debug\net8.0\ref\ApiClientLibrary.dll

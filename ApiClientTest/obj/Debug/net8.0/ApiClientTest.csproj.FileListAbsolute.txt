@@ -1,0 +1,55 @@
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\ApiClientTest\bin\Debug\net8.0\ApiClientTest.exe
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\ApiClientTest\bin\Debug\net8.0\appsettings.json
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\ApiClientTest\bin\Debug\net8.0\ApiClientTest.deps.json
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\ApiClientTest\bin\Debug\net8.0\ApiClientTest.runtimeconfig.json
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\ApiClientTest\bin\Debug\net8.0\ApiClientTest.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\ApiClientTest\bin\Debug\net8.0\ApiClientTest.pdb
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\ApiClientTest\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\ApiClientTest\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\ApiClientTest\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\ApiClientTest\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\ApiClientTest\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\ApiClientTest\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\ApiClientTest\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\ApiClientTest\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\ApiClientTest\bin\Debug\net8.0\ApiClientLibrary.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\ApiClientTest\bin\Debug\net8.0\ApiClientLibrary.pdb
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\ApiClientTest\obj\Debug\net8.0\ApiClientTest.csproj.AssemblyReference.cache
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\ApiClientTest\obj\Debug\net8.0\ApiClientTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\ApiClientTest\obj\Debug\net8.0\ApiClientTest.AssemblyInfoInputs.cache
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\ApiClientTest\obj\Debug\net8.0\ApiClientTest.AssemblyInfo.cs
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\ApiClientTest\obj\Debug\net8.0\ApiClientTest.csproj.CoreCompileInputs.cache
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\ApiClientTest\obj\Debug\net8.0\ApiClien.1F9A5154.Up2Date
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\ApiClientTest\obj\Debug\net8.0\ApiClientTest.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\ApiClientTest\obj\Debug\net8.0\refint\ApiClientTest.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\ApiClientTest\obj\Debug\net8.0\ApiClientTest.pdb
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\ApiClientTest\obj\Debug\net8.0\ApiClientTest.genruntimeconfig.cache
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\ApiClientTest\obj\Debug\net8.0\ref\ApiClientTest.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\ApiClientTest\bin\Debug\net8.0\ApiClientTest.exe
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\ApiClientTest\bin\Debug\net8.0\appsettings.json
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\ApiClientTest\bin\Debug\net8.0\ApiClientTest.deps.json
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\ApiClientTest\bin\Debug\net8.0\ApiClientTest.runtimeconfig.json
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\ApiClientTest\bin\Debug\net8.0\ApiClientTest.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\ApiClientTest\bin\Debug\net8.0\ApiClientTest.pdb
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\ApiClientTest\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\ApiClientTest\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\ApiClientTest\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\ApiClientTest\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\ApiClientTest\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\ApiClientTest\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\ApiClientTest\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\ApiClientTest\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\ApiClientTest\bin\Debug\net8.0\ApiClientLibrary.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\ApiClientTest\bin\Debug\net8.0\ApiClientLibrary.pdb
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\ApiClientTest\obj\Debug\net8.0\ApiClientTest.csproj.AssemblyReference.cache
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\ApiClientTest\obj\Debug\net8.0\ApiClientTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\ApiClientTest\obj\Debug\net8.0\ApiClientTest.AssemblyInfoInputs.cache
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\ApiClientTest\obj\Debug\net8.0\ApiClientTest.AssemblyInfo.cs
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\ApiClientTest\obj\Debug\net8.0\ApiClientTest.csproj.CoreCompileInputs.cache
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\ApiClientTest\obj\Debug\net8.0\ApiClientTest.sourcelink.json
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\ApiClientTest\obj\Debug\net8.0\ApiClien.1F9A5154.Up2Date
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\ApiClientTest\obj\Debug\net8.0\ApiClientTest.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\ApiClientTest\obj\Debug\net8.0\refint\ApiClientTest.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\ApiClientTest\obj\Debug\net8.0\ApiClientTest.pdb
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\ApiClientTest\obj\Debug\net8.0\ApiClientTest.genruntimeconfig.cache
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\ApiClientTest\obj\Debug\net8.0\ref\ApiClientTest.dll

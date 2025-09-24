@@ -1,0 +1,55 @@
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\Practica2\bin\Debug\net8.0\Practica2Intrumento.exe
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\Practica2\bin\Debug\net8.0\appsettings.json
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\Practica2\bin\Debug\net8.0\Practica2Intrumento.deps.json
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\Practica2\bin\Debug\net8.0\Practica2Intrumento.runtimeconfig.json
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\Practica2\bin\Debug\net8.0\Practica2Intrumento.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\Practica2\bin\Debug\net8.0\Practica2Intrumento.pdb
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\Practica2\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\Practica2\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\Practica2\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\Practica2\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\Practica2\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\Practica2\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\Practica2\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\Practica2\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\Practica2\bin\Debug\net8.0\ApiClientLibrary.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\Practica2\bin\Debug\net8.0\ApiClientLibrary.pdb
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\Practica2\obj\Debug\net8.0\Practica2Intrumento.csproj.AssemblyReference.cache
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\Practica2\obj\Debug\net8.0\Practica2Intrumento.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\Practica2\obj\Debug\net8.0\Practica2Intrumento.AssemblyInfoInputs.cache
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\Practica2\obj\Debug\net8.0\Practica2Intrumento.AssemblyInfo.cs
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\Practica2\obj\Debug\net8.0\Practica2Intrumento.csproj.CoreCompileInputs.cache
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\Practica2\obj\Debug\net8.0\Practica.A1E524B1.Up2Date
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\Practica2\obj\Debug\net8.0\Practica2Intrumento.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\Practica2\obj\Debug\net8.0\refint\Practica2Intrumento.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\Practica2\obj\Debug\net8.0\Practica2Intrumento.pdb
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\Practica2\obj\Debug\net8.0\Practica2Intrumento.genruntimeconfig.cache
+C:\github\LAPEM\SID-L0000-71-2025-devel\Proyecto Base\Practica2\obj\Debug\net8.0\ref\Practica2Intrumento.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\Practica2\bin\Debug\net8.0\Practica2Intrumento.exe
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\Practica2\bin\Debug\net8.0\appsettings.json
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\Practica2\bin\Debug\net8.0\Practica2Intrumento.deps.json
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\Practica2\bin\Debug\net8.0\Practica2Intrumento.runtimeconfig.json
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\Practica2\bin\Debug\net8.0\Practica2Intrumento.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\Practica2\bin\Debug\net8.0\Practica2Intrumento.pdb
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\Practica2\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\Practica2\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\Practica2\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\Practica2\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\Practica2\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\Practica2\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\Practica2\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\Practica2\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\Practica2\bin\Debug\net8.0\ApiClientLibrary.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\Practica2\bin\Debug\net8.0\ApiClientLibrary.pdb
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\Practica2\obj\Debug\net8.0\Practica2Intrumento.csproj.AssemblyReference.cache
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\Practica2\obj\Debug\net8.0\Practica2Intrumento.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\Practica2\obj\Debug\net8.0\Practica2Intrumento.AssemblyInfoInputs.cache
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\Practica2\obj\Debug\net8.0\Practica2Intrumento.AssemblyInfo.cs
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\Practica2\obj\Debug\net8.0\Practica2Intrumento.csproj.CoreCompileInputs.cache
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\Practica2\obj\Debug\net8.0\Practica2Intrumento.sourcelink.json
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\Practica2\obj\Debug\net8.0\Practica.A1E524B1.Up2Date
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\Practica2\obj\Debug\net8.0\Practica2Intrumento.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\Practica2\obj\Debug\net8.0\refint\Practica2Intrumento.dll
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\Practica2\obj\Debug\net8.0\Practica2Intrumento.pdb
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\Practica2\obj\Debug\net8.0\Practica2Intrumento.genruntimeconfig.cache
+C:\github\LAPEM\SID-L0000-71-2025-devel\SID-L0000-71-2025-devel\Practica2\obj\Debug\net8.0\ref\Practica2Intrumento.dll
