@@ -1,0 +1,15 @@
+C:\github\SIAD\SID-L0000-71-2025-devel\PracticasSIAD\Practica3Prototipos\bin\Debug\net8.0\Practica3Prototipos.exe
+C:\github\SIAD\SID-L0000-71-2025-devel\PracticasSIAD\Practica3Prototipos\bin\Debug\net8.0\Practica3Prototipos.deps.json
+C:\github\SIAD\SID-L0000-71-2025-devel\PracticasSIAD\Practica3Prototipos\bin\Debug\net8.0\Practica3Prototipos.runtimeconfig.json
+C:\github\SIAD\SID-L0000-71-2025-devel\PracticasSIAD\Practica3Prototipos\bin\Debug\net8.0\Practica3Prototipos.dll
+C:\github\SIAD\SID-L0000-71-2025-devel\PracticasSIAD\Practica3Prototipos\bin\Debug\net8.0\Practica3Prototipos.pdb
+C:\github\SIAD\SID-L0000-71-2025-devel\PracticasSIAD\Practica3Prototipos\obj\Debug\net8.0\Practica3Prototipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\SIAD\SID-L0000-71-2025-devel\PracticasSIAD\Practica3Prototipos\obj\Debug\net8.0\Practica3Prototipos.AssemblyInfoInputs.cache
+C:\github\SIAD\SID-L0000-71-2025-devel\PracticasSIAD\Practica3Prototipos\obj\Debug\net8.0\Practica3Prototipos.AssemblyInfo.cs
+C:\github\SIAD\SID-L0000-71-2025-devel\PracticasSIAD\Practica3Prototipos\obj\Debug\net8.0\Practica3Prototipos.csproj.CoreCompileInputs.cache
+C:\github\SIAD\SID-L0000-71-2025-devel\PracticasSIAD\Practica3Prototipos\obj\Debug\net8.0\Practica3Prototipos.sourcelink.json
+C:\github\SIAD\SID-L0000-71-2025-devel\PracticasSIAD\Practica3Prototipos\obj\Debug\net8.0\Practica3Prototipos.dll
+C:\github\SIAD\SID-L0000-71-2025-devel\PracticasSIAD\Practica3Prototipos\obj\Debug\net8.0\refint\Practica3Prototipos.dll
+C:\github\SIAD\SID-L0000-71-2025-devel\PracticasSIAD\Practica3Prototipos\obj\Debug\net8.0\Practica3Prototipos.pdb
+C:\github\SIAD\SID-L0000-71-2025-devel\PracticasSIAD\Practica3Prototipos\obj\Debug\net8.0\Practica3Prototipos.genruntimeconfig.cache
+C:\github\SIAD\SID-L0000-71-2025-devel\PracticasSIAD\Practica3Prototipos\obj\Debug\net8.0\ref\Practica3Prototipos.dll

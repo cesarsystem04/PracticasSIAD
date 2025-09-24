@@ -57,7 +57,7 @@ namespace ApiClientLibrary.Services
         {
             var json = JsonSerializer.Serialize(baseDTO);
             var content = new StringContent(json, Encoding.UTF8, "application/json");
-            var response = await _httpClient.PostAsync("Instrumento", content);
+            var response = await _httpClient.PostAsync("Norma", content);
             return response;
         }
 

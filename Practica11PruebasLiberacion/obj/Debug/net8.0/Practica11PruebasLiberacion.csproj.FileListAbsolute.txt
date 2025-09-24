@@ -1,0 +1,15 @@
+C:\github\SIAD\SID-L0000-71-2025-devel\PracticasSIAD\Practica11PruebasLiberacion\bin\Debug\net8.0\Practica11PruebasLiberacion.exe
+C:\github\SIAD\SID-L0000-71-2025-devel\PracticasSIAD\Practica11PruebasLiberacion\bin\Debug\net8.0\Practica11PruebasLiberacion.deps.json
+C:\github\SIAD\SID-L0000-71-2025-devel\PracticasSIAD\Practica11PruebasLiberacion\bin\Debug\net8.0\Practica11PruebasLiberacion.runtimeconfig.json
+C:\github\SIAD\SID-L0000-71-2025-devel\PracticasSIAD\Practica11PruebasLiberacion\bin\Debug\net8.0\Practica11PruebasLiberacion.dll
+C:\github\SIAD\SID-L0000-71-2025-devel\PracticasSIAD\Practica11PruebasLiberacion\bin\Debug\net8.0\Practica11PruebasLiberacion.pdb
+C:\github\SIAD\SID-L0000-71-2025-devel\PracticasSIAD\Practica11PruebasLiberacion\obj\Debug\net8.0\Practica11PruebasLiberacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\SIAD\SID-L0000-71-2025-devel\PracticasSIAD\Practica11PruebasLiberacion\obj\Debug\net8.0\Practica11PruebasLiberacion.AssemblyInfoInputs.cache
+C:\github\SIAD\SID-L0000-71-2025-devel\PracticasSIAD\Practica11PruebasLiberacion\obj\Debug\net8.0\Practica11PruebasLiberacion.AssemblyInfo.cs
+C:\github\SIAD\SID-L0000-71-2025-devel\PracticasSIAD\Practica11PruebasLiberacion\obj\Debug\net8.0\Practica11PruebasLiberacion.csproj.CoreCompileInputs.cache
+C:\github\SIAD\SID-L0000-71-2025-devel\PracticasSIAD\Practica11PruebasLiberacion\obj\Debug\net8.0\Practica11PruebasLiberacion.sourcelink.json
+C:\github\SIAD\SID-L0000-71-2025-devel\PracticasSIAD\Practica11PruebasLiberacion\obj\Debug\net8.0\Practica11PruebasLiberacion.dll
+C:\github\SIAD\SID-L0000-71-2025-devel\PracticasSIAD\Practica11PruebasLiberacion\obj\Debug\net8.0\refint\Practica11PruebasLiberacion.dll
+C:\github\SIAD\SID-L0000-71-2025-devel\PracticasSIAD\Practica11PruebasLiberacion\obj\Debug\net8.0\Practica11PruebasLiberacion.pdb
+C:\github\SIAD\SID-L0000-71-2025-devel\PracticasSIAD\Practica11PruebasLiberacion\obj\Debug\net8.0\Practica11PruebasLiberacion.genruntimeconfig.cache
+C:\github\SIAD\SID-L0000-71-2025-devel\PracticasSIAD\Practica11PruebasLiberacion\obj\Debug\net8.0\ref\Practica11PruebasLiberacion.dll

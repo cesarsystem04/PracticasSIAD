@@ -15,9 +15,9 @@ namespace ApiClientLibrary.Models
         public string partidaContrato { get; set; }
         public string descripcionAviso { get; set; }
         public string areaDestinoCFE { get; set; }
-        public string cantidad { get; set; }
+        public int cantidad { get; set; }
         public string unidad { get; set; }
-        public string importeTotal { get; set; }
+        public int importeTotal { get; set; }
 
 
     }

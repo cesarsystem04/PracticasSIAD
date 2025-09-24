@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1uyYjUuSxsc=",
+  "dgSpecHash": "1QckAS3yBUc=",
   "success": true,
-  "projectFilePath": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\Practica3Norma\\Practica3Norma.csproj",
+  "projectFilePath": "C:\\github\\SIAD\\SID-L0000-71-2025-devel\\PracticasSIAD\\Practica3Norma\\Practica6Norma.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\c.torres\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\c.torres\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

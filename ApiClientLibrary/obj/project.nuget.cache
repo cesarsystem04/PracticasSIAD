@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VPxJJEWuBt8=",
+  "dgSpecHash": "TsNgodqQiSA=",
   "success": true,
-  "projectFilePath": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\ApiClientLibrary\\ApiClientLibrary.csproj",
+  "projectFilePath": "C:\\github\\SIAD\\SID-L0000-71-2025-devel\\PracticasSIAD\\ApiClientLibrary\\ApiClientLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\c.torres\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\c.torres\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

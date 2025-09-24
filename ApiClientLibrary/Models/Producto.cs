@@ -14,6 +14,7 @@ namespace ApiClientLibrary.Models
     {
         public string id { get; set; }
         public string codigoFabricante { get; set; }
+        public string descripcion { get; set; }
         public string descripcionCorta { get; set; }
         public string tipoFabricacion { get; set; }
         public string unidad { get; set; }

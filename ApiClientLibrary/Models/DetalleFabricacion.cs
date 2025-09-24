@@ -17,8 +17,8 @@ namespace ApiClientLibrary.Models
         public string partidaContratoId { get; set; }
         public string descripcionPartida { get; set; }
         public string unidad { get; set; }
-        public string cantidadOriginalContrato { get; set; }
-        public string cantidadAFabricar { get; set; }
+        public int cantidadOriginalContrato { get; set; }
+        public int cantidadAFabricar { get; set; }
 
     }
 }

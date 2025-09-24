@@ -1,106 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\",
+  "WorkspaceRootPath": "C:\\github\\SIAD\\SID-L0000-71-2025-devel\\PracticasSIAD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D0A200EC-E715-4BF3-9448-6B4811707AAD}|ApiClientLibrary\\ApiClientLibrary.csproj|c:\\github\\lapem\\sid-l0000-71-2025-devel\\sid-l0000-71-2025-devel\\apiclientlibrary\\services\\valoresreferenciaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0A200EC-E715-4BF3-9448-6B4811707AAD}|ApiClientLibrary\\ApiClientLibrary.csproj|solutionrelative:apiclientlibrary\\services\\valoresreferenciaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95E396F3-BCEF-4EF5-B4C8-2216E6EBD0C2}|Practica10ExpedientePruebas\\Practica10ExpedientePruebas.csproj|c:\\github\\siad\\sid-l0000-71-2025-devel\\practicassiad\\practica10expedientepruebas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95E396F3-BCEF-4EF5-B4C8-2216E6EBD0C2}|Practica10ExpedientePruebas\\Practica10ExpedientePruebas.csproj|solutionrelative:practica10expedientepruebas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D7BC1338-AADF-428B-AED2-8A0D8F99B21B}|Practica4ValoresReferencia\\Practica4ValoresReferencia.csproj|c:\\github\\lapem\\sid-l0000-71-2025-devel\\sid-l0000-71-2025-devel\\practica4valoresreferencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D7BC1338-AADF-428B-AED2-8A0D8F99B21B}|Practica4ValoresReferencia\\Practica4ValoresReferencia.csproj|solutionrelative:practica4valoresreferencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0A200EC-E715-4BF3-9448-6B4811707AAD}|ApiClientLibrary\\ApiClientLibrary.csproj|c:\\github\\siad\\sid-l0000-71-2025-devel\\practicassiad\\apiclientlibrary\\services\\expedientepruebasservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0A200EC-E715-4BF3-9448-6B4811707AAD}|ApiClientLibrary\\ApiClientLibrary.csproj|solutionrelative:apiclientlibrary\\services\\expedientepruebasservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0A200EC-E715-4BF3-9448-6B4811707AAD}|ApiClientLibrary\\ApiClientLibrary.csproj|c:\\github\\lapem\\sid-l0000-71-2025-devel\\sid-l0000-71-2025-devel\\apiclientlibrary\\models\\valorreferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0A200EC-E715-4BF3-9448-6B4811707AAD}|ApiClientLibrary\\ApiClientLibrary.csproj|solutionrelative:apiclientlibrary\\models\\valorreferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0692F023-5A72-4DFA-A2CD-5554D456C036}|Practica3Norma\\Practica3Norma.csproj|c:\\github\\lapem\\sid-l0000-71-2025-devel\\sid-l0000-71-2025-devel\\practica3norma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0692F023-5A72-4DFA-A2CD-5554D456C036}|Practica3Norma\\Practica3Norma.csproj|solutionrelative:practica3norma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0A200EC-E715-4BF3-9448-6B4811707AAD}|ApiClientLibrary\\ApiClientLibrary.csproj|c:\\github\\lapem\\sid-l0000-71-2025-devel\\sid-l0000-71-2025-devel\\apiclientlibrary\\models\\expedientepruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0A200EC-E715-4BF3-9448-6B4811707AAD}|ApiClientLibrary\\ApiClientLibrary.csproj|solutionrelative:apiclientlibrary\\models\\expedientepruebas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0A200EC-E715-4BF3-9448-6B4811707AAD}|ApiClientLibrary\\ApiClientLibrary.csproj|c:\\github\\lapem\\sid-l0000-71-2025-devel\\sid-l0000-71-2025-devel\\apiclientlibrary\\models\\ordenfabricacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0A200EC-E715-4BF3-9448-6B4811707AAD}|ApiClientLibrary\\ApiClientLibrary.csproj|solutionrelative:apiclientlibrary\\models\\ordenfabricacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0A200EC-E715-4BF3-9448-6B4811707AAD}|ApiClientLibrary\\ApiClientLibrary.csproj|c:\\github\\lapem\\sid-l0000-71-2025-devel\\sid-l0000-71-2025-devel\\apiclientlibrary\\models\\detallefabricacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0A200EC-E715-4BF3-9448-6B4811707AAD}|ApiClientLibrary\\ApiClientLibrary.csproj|solutionrelative:apiclientlibrary\\models\\detallefabricacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0A200EC-E715-4BF3-9448-6B4811707AAD}|ApiClientLibrary\\ApiClientLibrary.csproj|c:\\github\\lapem\\sid-l0000-71-2025-devel\\sid-l0000-71-2025-devel\\apiclientlibrary\\models\\contrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0A200EC-E715-4BF3-9448-6B4811707AAD}|ApiClientLibrary\\ApiClientLibrary.csproj|solutionrelative:apiclientlibrary\\models\\contrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0A200EC-E715-4BF3-9448-6B4811707AAD}|ApiClientLibrary\\ApiClientLibrary.csproj|c:\\github\\lapem\\sid-l0000-71-2025-devel\\sid-l0000-71-2025-devel\\apiclientlibrary\\models\\detallecontrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0A200EC-E715-4BF3-9448-6B4811707AAD}|ApiClientLibrary\\ApiClientLibrary.csproj|solutionrelative:apiclientlibrary\\models\\detallecontrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0A200EC-E715-4BF3-9448-6B4811707AAD}|ApiClientLibrary\\ApiClientLibrary.csproj|c:\\github\\lapem\\sid-l0000-71-2025-devel\\sid-l0000-71-2025-devel\\apiclientlibrary\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0A200EC-E715-4BF3-9448-6B4811707AAD}|ApiClientLibrary\\ApiClientLibrary.csproj|solutionrelative:apiclientlibrary\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0A200EC-E715-4BF3-9448-6B4811707AAD}|ApiClientLibrary\\ApiClientLibrary.csproj|c:\\github\\lapem\\sid-l0000-71-2025-devel\\sid-l0000-71-2025-devel\\apiclientlibrary\\models\\prueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0A200EC-E715-4BF3-9448-6B4811707AAD}|ApiClientLibrary\\ApiClientLibrary.csproj|solutionrelative:apiclientlibrary\\models\\prueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0A200EC-E715-4BF3-9448-6B4811707AAD}|ApiClientLibrary\\ApiClientLibrary.csproj|c:\\github\\lapem\\sid-l0000-71-2025-devel\\sid-l0000-71-2025-devel\\apiclientlibrary\\models\\prototipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0A200EC-E715-4BF3-9448-6B4811707AAD}|ApiClientLibrary\\ApiClientLibrary.csproj|solutionrelative:apiclientlibrary\\models\\prototipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0A200EC-E715-4BF3-9448-6B4811707AAD}|ApiClientLibrary\\ApiClientLibrary.csproj|c:\\github\\lapem\\sid-l0000-71-2025-devel\\sid-l0000-71-2025-devel\\apiclientlibrary\\models\\norma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0A200EC-E715-4BF3-9448-6B4811707AAD}|ApiClientLibrary\\ApiClientLibrary.csproj|solutionrelative:apiclientlibrary\\models\\norma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0A200EC-E715-4BF3-9448-6B4811707AAD}|ApiClientLibrary\\ApiClientLibrary.csproj|c:\\github\\lapem\\sid-l0000-71-2025-devel\\sid-l0000-71-2025-devel\\apiclientlibrary\\services\\iservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0A200EC-E715-4BF3-9448-6B4811707AAD}|ApiClientLibrary\\ApiClientLibrary.csproj|solutionrelative:apiclientlibrary\\services\\iservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0A200EC-E715-4BF3-9448-6B4811707AAD}|ApiClientLibrary\\ApiClientLibrary.csproj|c:\\github\\lapem\\sid-l0000-71-2025-devel\\sid-l0000-71-2025-devel\\apiclientlibrary\\models\\instumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0A200EC-E715-4BF3-9448-6B4811707AAD}|ApiClientLibrary\\ApiClientLibrary.csproj|solutionrelative:apiclientlibrary\\models\\instumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{972F06C1-E818-4A9D-9B2D-78D5747F9582}|Practica2\\Practica2Intrumento.csproj|c:\\github\\lapem\\sid-l0000-71-2025-devel\\sid-l0000-71-2025-devel\\practica2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{972F06C1-E818-4A9D-9B2D-78D5747F9582}|Practica2\\Practica2Intrumento.csproj|solutionrelative:practica2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0A200EC-E715-4BF3-9448-6B4811707AAD}|ApiClientLibrary\\ApiClientLibrary.csproj|c:\\github\\lapem\\sid-l0000-71-2025-devel\\sid-l0000-71-2025-devel\\apiclientlibrary\\services\\normaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0A200EC-E715-4BF3-9448-6B4811707AAD}|ApiClientLibrary\\ApiClientLibrary.csproj|solutionrelative:apiclientlibrary\\services\\normaservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0692F023-5A72-4DFA-A2CD-5554D456C036}|Practica3Norma\\Practica3Norma.csproj|c:\\github\\lapem\\sid-l0000-71-2025-devel\\sid-l0000-71-2025-devel\\practica3norma\\practica3norma.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0692F023-5A72-4DFA-A2CD-5554D456C036}|Practica3Norma\\Practica3Norma.csproj|solutionrelative:practica3norma\\practica3norma.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0A200EC-E715-4BF3-9448-6B4811707AAD}|ApiClientLibrary\\ApiClientLibrary.csproj|c:\\github\\lapem\\sid-l0000-71-2025-devel\\sid-l0000-71-2025-devel\\apiclientlibrary\\services\\f1_configuracioninicialinstrumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0A200EC-E715-4BF3-9448-6B4811707AAD}|ApiClientLibrary\\ApiClientLibrary.csproj|solutionrelative:apiclientlibrary\\services\\f1_configuracioninicialinstrumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0A200EC-E715-4BF3-9448-6B4811707AAD}|ApiClientLibrary\\ApiClientLibrary.csproj|c:\\github\\lapem\\sid-l0000-71-2025-devel\\sid-l0000-71-2025-devel\\apiclientlibrary\\services\\f1_configuracioninicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0A200EC-E715-4BF3-9448-6B4811707AAD}|ApiClientLibrary\\ApiClientLibrary.csproj|solutionrelative:apiclientlibrary\\services\\f1_configuracioninicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0A200EC-E715-4BF3-9448-6B4811707AAD}|ApiClientLibrary\\ApiClientLibrary.csproj|c:\\github\\lapem\\sid-l0000-71-2025-devel\\sid-l0000-71-2025-devel\\apiclientlibrary\\services\\f1_instrumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0A200EC-E715-4BF3-9448-6B4811707AAD}|ApiClientLibrary\\ApiClientLibrary.csproj|solutionrelative:apiclientlibrary\\services\\f1_instrumento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0A200EC-E715-4BF3-9448-6B4811707AAD}|ApiClientLibrary\\ApiClientLibrary.csproj|c:\\github\\lapem\\sid-l0000-71-2025-devel\\sid-l0000-71-2025-devel\\apiclientlibrary\\models\\ibasedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0A200EC-E715-4BF3-9448-6B4811707AAD}|ApiClientLibrary\\ApiClientLibrary.csproj|solutionrelative:apiclientlibrary\\models\\ibasedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0A200EC-E715-4BF3-9448-6B4811707AAD}|ApiClientLibrary\\ApiClientLibrary.csproj|c:\\github\\lapem\\sid-l0000-71-2025-devel\\sid-l0000-71-2025-devel\\apiclientlibrary\\models\\estadosiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0A200EC-E715-4BF3-9448-6B4811707AAD}|ApiClientLibrary\\ApiClientLibrary.csproj|solutionrelative:apiclientlibrary\\models\\estadosiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11574F44-D2F3-4137-9239-681FD6B7CEEC}|ApiClientTest\\ApiClientTest.csproj|c:\\github\\lapem\\sid-l0000-71-2025-devel\\sid-l0000-71-2025-devel\\apiclienttest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11574F44-D2F3-4137-9239-681FD6B7CEEC}|ApiClientTest\\ApiClientTest.csproj|solutionrelative:apiclienttest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0A200EC-E715-4BF3-9448-6B4811707AAD}|ApiClientLibrary\\ApiClientLibrary.csproj|c:\\github\\lapem\\sid-l0000-71-2025-devel\\sid-l0000-71-2025-devel\\apiclientlibrary\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D0A200EC-E715-4BF3-9448-6B4811707AAD}|ApiClientLibrary\\ApiClientLibrary.csproj|solutionrelative:apiclientlibrary\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{D17A00D2-D64E-48C9-A984-82E3EC7F8825}|Practica9OrdenFabricacion\\Practica9OrdenFabricacion.csproj|c:\\github\\siad\\sid-l0000-71-2025-devel\\practicassiad\\practica9ordenfabricacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D17A00D2-D64E-48C9-A984-82E3EC7F8825}|Practica9OrdenFabricacion\\Practica9OrdenFabricacion.csproj|solutionrelative:practica9ordenfabricacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -110,308 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ValoresReferenciaServices.cs",
-              "DocumentMoniker": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\ApiClientLibrary\\Services\\ValoresReferenciaServices.cs",
-              "RelativeDocumentMoniker": "ApiClientLibrary\\Services\\ValoresReferenciaServices.cs",
-              "ToolTip": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\ApiClientLibrary\\Services\\ValoresReferenciaServices.cs",
-              "RelativeToolTip": "ApiClientLibrary\\Services\\ValoresReferenciaServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\github\\SIAD\\SID-L0000-71-2025-devel\\PracticasSIAD\\Practica9OrdenFabricacion\\Program.cs",
+              "RelativeDocumentMoniker": "Practica9OrdenFabricacion\\Program.cs",
+              "ToolTip": "C:\\github\\SIAD\\SID-L0000-71-2025-devel\\PracticasSIAD\\Practica9OrdenFabricacion\\Program.cs",
+              "RelativeToolTip": "Practica9OrdenFabricacion\\Program.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAwwI0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T15:35:27.541Z",
+              "WhenOpened": "2025-09-24T20:34:50.704Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ExpedientePruebasServices.cs",
+              "DocumentMoniker": "C:\\github\\SIAD\\SID-L0000-71-2025-devel\\PracticasSIAD\\ApiClientLibrary\\Services\\ExpedientePruebasServices.cs",
+              "RelativeDocumentMoniker": "ApiClientLibrary\\Services\\ExpedientePruebasServices.cs",
+              "ToolTip": "C:\\github\\SIAD\\SID-L0000-71-2025-devel\\PracticasSIAD\\ApiClientLibrary\\Services\\ExpedientePruebasServices.cs",
+              "RelativeToolTip": "ApiClientLibrary\\Services\\ExpedientePruebasServices.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwDsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T20:31:03.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\Practica4ValoresReferencia\\Program.cs",
-              "RelativeDocumentMoniker": "Practica4ValoresReferencia\\Program.cs",
-              "ToolTip": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\Practica4ValoresReferencia\\Program.cs",
-              "RelativeToolTip": "Practica4ValoresReferencia\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\github\\SIAD\\SID-L0000-71-2025-devel\\PracticasSIAD\\Practica10ExpedientePruebas\\Program.cs",
+              "RelativeDocumentMoniker": "Practica10ExpedientePruebas\\Program.cs",
+              "ToolTip": "C:\\github\\SIAD\\SID-L0000-71-2025-devel\\PracticasSIAD\\Practica10ExpedientePruebas\\Program.cs",
+              "RelativeToolTip": "Practica10ExpedientePruebas\\Program.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAowIAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T15:34:02.422Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Contrato.cs",
-              "DocumentMoniker": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\ApiClientLibrary\\Models\\Contrato.cs",
-              "RelativeDocumentMoniker": "ApiClientLibrary\\Models\\Contrato.cs",
-              "ToolTip": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\ApiClientLibrary\\Models\\Contrato.cs",
-              "RelativeToolTip": "ApiClientLibrary\\Models\\Contrato.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T02:47:19.385Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\Practica3Norma\\Program.cs",
-              "RelativeDocumentMoniker": "Practica3Norma\\Program.cs",
-              "ToolTip": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\Practica3Norma\\Program.cs",
-              "RelativeToolTip": "Practica3Norma\\Program.cs",
-              "ViewState": "AgIAAHUAAAAAAAAAAAAAAIgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T02:09:43.704Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ValorReferencia.cs",
-              "DocumentMoniker": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\ApiClientLibrary\\Models\\ValorReferencia.cs",
-              "RelativeDocumentMoniker": "ApiClientLibrary\\Models\\ValorReferencia.cs",
-              "ToolTip": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\ApiClientLibrary\\Models\\ValorReferencia.cs",
-              "RelativeToolTip": "ApiClientLibrary\\Models\\ValorReferencia.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBIAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T02:44:12.913Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "OrdenFabricacion.cs",
-              "DocumentMoniker": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\ApiClientLibrary\\Models\\OrdenFabricacion.cs",
-              "RelativeDocumentMoniker": "ApiClientLibrary\\Models\\OrdenFabricacion.cs",
-              "ToolTip": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\ApiClientLibrary\\Models\\OrdenFabricacion.cs",
-              "RelativeToolTip": "ApiClientLibrary\\Models\\OrdenFabricacion.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T02:49:45.639Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DetalleFabricacion.cs",
-              "DocumentMoniker": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\ApiClientLibrary\\Models\\DetalleFabricacion.cs",
-              "RelativeDocumentMoniker": "ApiClientLibrary\\Models\\DetalleFabricacion.cs",
-              "ToolTip": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\ApiClientLibrary\\Models\\DetalleFabricacion.cs",
-              "RelativeToolTip": "ApiClientLibrary\\Models\\DetalleFabricacion.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T02:50:47.709Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ExpedientePruebas.cs",
-              "DocumentMoniker": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\ApiClientLibrary\\Models\\ExpedientePruebas.cs",
-              "RelativeDocumentMoniker": "ApiClientLibrary\\Models\\ExpedientePruebas.cs",
-              "ToolTip": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\ApiClientLibrary\\Models\\ExpedientePruebas.cs",
-              "RelativeToolTip": "ApiClientLibrary\\Models\\ExpedientePruebas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T02:52:17.316Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DetalleContrato.cs",
-              "DocumentMoniker": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\ApiClientLibrary\\Models\\DetalleContrato.cs",
-              "RelativeDocumentMoniker": "ApiClientLibrary\\Models\\DetalleContrato.cs",
-              "ToolTip": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\ApiClientLibrary\\Models\\DetalleContrato.cs",
-              "RelativeToolTip": "ApiClientLibrary\\Models\\DetalleContrato.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T02:45:53.203Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\ApiClientLibrary\\Models\\Producto.cs",
-              "RelativeDocumentMoniker": "ApiClientLibrary\\Models\\Producto.cs",
-              "ToolTip": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\ApiClientLibrary\\Models\\Producto.cs",
-              "RelativeToolTip": "ApiClientLibrary\\Models\\Producto.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T02:36:27.862Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Prueba.cs",
-              "DocumentMoniker": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\ApiClientLibrary\\Models\\Prueba.cs",
-              "RelativeDocumentMoniker": "ApiClientLibrary\\Models\\Prueba.cs",
-              "ToolTip": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\ApiClientLibrary\\Models\\Prueba.cs",
-              "RelativeToolTip": "ApiClientLibrary\\Models\\Prueba.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T02:35:28.486Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "NormaServices.cs",
-              "DocumentMoniker": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\ApiClientLibrary\\Services\\NormaServices.cs",
-              "RelativeDocumentMoniker": "ApiClientLibrary\\Services\\NormaServices.cs",
-              "ToolTip": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\ApiClientLibrary\\Services\\NormaServices.cs",
-              "RelativeToolTip": "ApiClientLibrary\\Services\\NormaServices.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCsAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T02:10:38.482Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IServices.cs",
-              "DocumentMoniker": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\ApiClientLibrary\\Services\\IServices.cs",
-              "RelativeDocumentMoniker": "ApiClientLibrary\\Services\\IServices.cs",
-              "ToolTip": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\ApiClientLibrary\\Services\\IServices.cs",
-              "RelativeToolTip": "ApiClientLibrary\\Services\\IServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T02:04:10.111Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\Practica2\\Program.cs",
-              "RelativeDocumentMoniker": "Practica2\\Program.cs",
-              "ToolTip": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\Practica2\\Program.cs",
-              "RelativeToolTip": "Practica2\\Program.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAqwFMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T18:19:34.446Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Norma.cs",
-              "DocumentMoniker": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\ApiClientLibrary\\Models\\Norma.cs",
-              "RelativeDocumentMoniker": "ApiClientLibrary\\Models\\Norma.cs",
-              "ToolTip": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\ApiClientLibrary\\Models\\Norma.cs",
-              "RelativeToolTip": "ApiClientLibrary\\Models\\Norma.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T19:58:35.623Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Prototipo.cs",
-              "DocumentMoniker": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\ApiClientLibrary\\Models\\Prototipo.cs",
-              "RelativeDocumentMoniker": "ApiClientLibrary\\Models\\Prototipo.cs",
-              "ToolTip": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\ApiClientLibrary\\Models\\Prototipo.cs",
-              "RelativeToolTip": "ApiClientLibrary\\Models\\Prototipo.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T19:56:55.644Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Instumento.cs",
-              "DocumentMoniker": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\ApiClientLibrary\\Models\\Instumento.cs",
-              "RelativeDocumentMoniker": "ApiClientLibrary\\Models\\Instumento.cs",
-              "ToolTip": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\ApiClientLibrary\\Models\\Instumento.cs",
-              "RelativeToolTip": "ApiClientLibrary\\Models\\Instumento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T18:24:10.629Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Practica3Norma.csproj",
-              "DocumentMoniker": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\Practica3Norma\\Practica3Norma.csproj",
-              "RelativeDocumentMoniker": "Practica3Norma\\Practica3Norma.csproj",
-              "ToolTip": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\Practica3Norma\\Practica3Norma.csproj",
-              "RelativeToolTip": "Practica3Norma\\Practica3Norma.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-24T02:23:14.13Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "F1_ConfiguracionInicialInstrumento.cs",
-              "DocumentMoniker": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\ApiClientLibrary\\Services\\F1_ConfiguracionInicialInstrumento.cs",
-              "RelativeDocumentMoniker": "ApiClientLibrary\\Services\\F1_ConfiguracionInicialInstrumento.cs",
-              "ToolTip": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\ApiClientLibrary\\Services\\F1_ConfiguracionInicialInstrumento.cs",
-              "RelativeToolTip": "ApiClientLibrary\\Services\\F1_ConfiguracionInicialInstrumento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T02:11:27.669Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "F1_ConfiguracionInicial.cs",
-              "DocumentMoniker": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\ApiClientLibrary\\Services\\F1_ConfiguracionInicial.cs",
-              "RelativeDocumentMoniker": "ApiClientLibrary\\Services\\F1_ConfiguracionInicial.cs",
-              "ToolTip": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\ApiClientLibrary\\Services\\F1_ConfiguracionInicial.cs",
-              "RelativeToolTip": "ApiClientLibrary\\Services\\F1_ConfiguracionInicial.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAvwA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T18:23:10.855Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "IBaseDTO.cs",
-              "DocumentMoniker": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\ApiClientLibrary\\Models\\IBaseDTO.cs",
-              "RelativeDocumentMoniker": "ApiClientLibrary\\Models\\IBaseDTO.cs",
-              "ToolTip": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\ApiClientLibrary\\Models\\IBaseDTO.cs",
-              "RelativeToolTip": "ApiClientLibrary\\Models\\IBaseDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T02:07:45.423Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "F1_Instrumento.cs",
-              "DocumentMoniker": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\ApiClientLibrary\\Services\\F1_Instrumento.cs",
-              "RelativeDocumentMoniker": "ApiClientLibrary\\Services\\F1_Instrumento.cs",
-              "ToolTip": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\ApiClientLibrary\\Services\\F1_Instrumento.cs",
-              "RelativeToolTip": "ApiClientLibrary\\Services\\F1_Instrumento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T17:04:17.325Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "EstadoSIDDTO.cs",
-              "DocumentMoniker": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\ApiClientLibrary\\Models\\EstadoSIDDTO.cs",
-              "RelativeDocumentMoniker": "ApiClientLibrary\\Models\\EstadoSIDDTO.cs",
-              "ToolTip": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\ApiClientLibrary\\Models\\EstadoSIDDTO.cs",
-              "RelativeToolTip": "ApiClientLibrary\\Models\\EstadoSIDDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T18:24:03.797Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\ApiClientTest\\Program.cs",
-              "RelativeDocumentMoniker": "ApiClientTest\\Program.cs",
-              "ToolTip": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\ApiClientTest\\Program.cs",
-              "RelativeToolTip": "ApiClientTest\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T17:04:22.925Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\ApiClientLibrary\\appsettings.json",
-              "RelativeDocumentMoniker": "ApiClientLibrary\\appsettings.json",
-              "ToolTip": "C:\\github\\LAPEM\\SID-L0000-71-2025-devel\\SID-L0000-71-2025-devel\\ApiClientLibrary\\appsettings.json",
-              "RelativeToolTip": "ApiClientLibrary\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-23T17:03:51.789Z"
+              "WhenOpened": "2025-09-24T20:30:25.551Z",
+              "EditorCaption": ""
             }
           ]
         }
